@@ -1,1 +1,2 @@
-# CALORI-AI-WORKE
+# calori-ia-worker
+CALORI AI Worker conectado a Cloudflare.
