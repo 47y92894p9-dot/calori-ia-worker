@@ -1,7 +1,7 @@
 const RULES_BASE =
   "https://raw.githubusercontent.com/47y92894p9-dot/CALORI-IA-RULES/main/rules";
 
-const GEMINI_MODEL = "gemini-2.5-flash";
+const GEMINI_MODEL = "gemini-3.5-flash";
 
 async function loadRule(name) {
   const response = await fetch(`${RULES_BASE}/${name}.md`);
